@@ -1,0 +1,1 @@
+print("Name of module is: "+__main__)
